@@ -111,4 +111,4 @@ env.bak/
 venv.bak/
 
 media/
-./static/
+static/
